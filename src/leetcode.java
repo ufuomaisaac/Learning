@@ -1,6 +1,7 @@
 import java.util.Stack;
 
 public class leetcode {
+
     public static void main(String[] args){
         String str = "}";
         boolean b = isValid1(str);
